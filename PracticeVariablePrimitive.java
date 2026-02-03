@@ -18,3 +18,4 @@ public class PracticeVariablePrimitive {
         boolean faux  = false;
     }
 }
+
